@@ -1,0 +1,8 @@
+<svg width="220px" height="220px" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="icon.svg" viewbox="0 0 240 240" >
+    
+        <circle cx="90" cy="80" r="70" stroke="none" fill="red"></circle>
+        <polyline points="60 30, 90 75, 60 120, 120 30, 90 75, 120 120" stroke="white" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"></polyline>
+    
+     </symbol>
+</svg>
